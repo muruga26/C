@@ -31,6 +31,6 @@ int main()
 		}
 	}
 	
-	printf(str);
+	printf("%s",str);
 	return 0;
 }
