@@ -1,6 +1,8 @@
 import java.util.Scanner;
-public class once
+
+public class sample
 {
+    
     public static void main(String[] args) 
     {
         int n, flag = 0, count = 0;
